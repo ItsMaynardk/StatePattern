@@ -15,3 +15,4 @@ Delegate actions like deposit, withdraw, activate, suspend, and close to the cur
 
 
 
+![Blank diagram (4)](https://github.com/ItsMaynardk/StatePattern/assets/142737277/9a4ab1ee-7f33-4c2b-8cdd-465d4a995f3e)
